@@ -22,7 +22,7 @@ public class Main
         else
         {
             trash = in.nextLine();
-            System.out.println(trash + " is a bad input! Run the program again and enter a valid input!");
+            System.out.println("\nRun the program again and enter a valid input! " + trash + " Is a bad input!");
             System.exit(0);
         }
 
@@ -35,7 +35,7 @@ public class Main
         else
         {
             trash = in.nextLine();
-            System.out.println(trash + " is a bad input! Run the program again and enter a valid input!");
+            System.out.println("\nRun the program again and enter a valid input! " + trash + " Is a bad input!");
             System.exit(0);
         }
 
@@ -55,7 +55,7 @@ public class Main
         else
         {
             trash = in.nextLine();
-            System.out.println(trash + " is a bad input! Run the program again and enter a valid input!");
+            System.out.println("\nRun the program again and enter a valid input! " + trash + " Is a bad input!");
             System.exit(0);
         }
     }
